@@ -12,7 +12,7 @@ end
 
 def move(board)
   board = "X" or "O"
-  
+
 
 
 end
