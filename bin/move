@@ -9,4 +9,3 @@ move(anything, 0, "X")
 input_to_index(user_input)
 board[0] = "X"
 display_board(board)
-
