@@ -11,7 +11,7 @@ def input_to_index(user_input)
 end
 
 def move(board)
-  board = "X" or "O"
+  move(board, 2)
 
 
 
