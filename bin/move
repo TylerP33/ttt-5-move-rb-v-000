@@ -6,3 +6,7 @@ board = [" ", " "," "," "," "," "," "," "," "]
 user_input = "Where would you like to go?"
 user_input = gets.strip
 input_to_index(user_input)
+array = board
+index = "O"
+value = "X"
+
