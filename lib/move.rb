@@ -11,7 +11,7 @@ def input_to_index(user_input)
 end
 
 def move(array, index, value = "X")
-  puts "#{board[0]}" = "X"
+  puts "#{board[0]}" = "X" or "O"
 
 
 end
