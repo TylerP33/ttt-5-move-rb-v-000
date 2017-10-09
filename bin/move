@@ -1,6 +1,5 @@
 #!/usr/bin/env ruby
 
 require_relative '../lib/move.rb'
-def greeting(greeting)
-  puts "Welcome to Tic Tac Toe"
-end
+puts "Welcome to Tic Tac Toe"
+
